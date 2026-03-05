@@ -2,21 +2,21 @@ Doc Genie is an AI-powered document generation system that automatically creates
 
 In today’s digital world, students, professionals, and organizations spend a significant amount of time preparing reports, resumes, project documentation, letters, and academic content. Doc Genie solves this problem by providing an AI-driven platform that reduces manual effort, improves productivity, and ensures accuracy.
 
-🚀 Key Features:
+ Key Features:
 
-✨ AI-based document generation
+ AI-based document generation
 
-📑 Automatic formatting and structuring
+ Automatic formatting and structuring
 
-🧠 Smart content suggestions
+ Smart content suggestions
 
-🔍 Grammar and readability improvement
+ Grammar and readability improvement
 
-📂 Easy document management and storage
+ Easy document management and storage
 
-📤 Export options (PDF, Word, etc.)
+ Export options (PDF, Word, etc.)
 
-🎯 Objectives:
+ Objectives:
 
 To reduce time spent on document preparation
 
@@ -26,7 +26,7 @@ To assist students and professionals in academic and business writing
 
 To improve document clarity and presentation
 
-🛠️ Technologies Used:
+ Technologies Used:
 
 Python
 
@@ -38,6 +38,6 @@ Web Technologies (HTML, CSS, JavaScript)
 
 Database (MySQL / MongoDB)
 
-🌟 Benefits:
+ Benefits:
 
 Doc Genie enhances productivity, minimizes errors, and helps users create professional documents effortlessly. It is especially useful for students preparing project reports, researchers writing papers, and companies generating official documentation.
